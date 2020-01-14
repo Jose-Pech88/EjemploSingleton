@@ -1,0 +1,11 @@
+C:\Users\jose.pech\source\repos\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\jose.pech\source\repos\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\jose.pech\source\repos\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\jose.pech\source\repos\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\jose.pech\source\repos\Singleton\Singleton\obj\Debug\Singleton.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploSingleton\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\jose.pech\Documents\GitHub\EjemploSingleton\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploSingleton\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploSingleton\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\jose.pech\Documents\GitHub\EjemploSingleton\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploSingleton\Singleton\Singleton\obj\Debug\Singleton.pdb
